@@ -47,11 +47,11 @@ What are we going to cover today?
 
 - What is R Markdown
 
+- What is Markdown? And Markdown sytnax
+
 - Why R Markdown?
 
-- Using Markdown/R Markdown syntax  
-
-- Use R Markdown to inter-operate with Python
+- Learning about the cool capabilities of R Markdown  
 
 - Creating your first `.Rmd` document 
 
