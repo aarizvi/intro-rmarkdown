@@ -305,7 +305,7 @@ It contains things like the title, author, date, and other parameters.
 ---
 title: "Intro to R"
 author: "Abbas Rizvi"
-date: 2021-02-23
+date: "`r Sys.Date()`"
 output:
   html_document
 ---
