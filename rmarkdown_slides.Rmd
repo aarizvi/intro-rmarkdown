@@ -1,8 +1,6 @@
 ---
 title: "Introduction to R Markdown"
-subtitle: "Part of C2ER Intermediate R Workshop"
 author: "Abbas Rizvi"
-institute: "Instructor - R Courses"
 date: "`r Sys.Date()`"
 output:
   xaringan::moon_reader:
